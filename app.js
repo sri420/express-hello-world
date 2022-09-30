@@ -58,7 +58,7 @@ const html = `
   </body>
 </html>
 
-const homehtml = `
+const html = `
 <!DOCTYPE html>
 <html>
   <head>
